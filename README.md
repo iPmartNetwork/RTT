@@ -1,5 +1,5 @@
 # RTT
-# RTT-ReverseTlsTunnel تانل معکوس
+# RTT-Reverse tls tunnel  
 سیستم عامل پیشنهادی : ubuntu 20 , ubuntu 22 
 
 یکی از بهترین روشهای تانل بین دو سرور ایران و خارج 
