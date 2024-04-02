@@ -39,8 +39,8 @@ systemctl restart tunnel.service
 
 ## Related
 
-با تشکر از 
+با تشکر از
 
-https://github.com/radkesvat/ReverseTlsTunnel/tree/master توسعه دهنده 
+https://github.com/radkesvat/ReverseTlsTunnel/tree/master
 
 https://github.com/azadrahorg/RTT-Tunnel-Helper/tree/main 
